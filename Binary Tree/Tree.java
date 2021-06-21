@@ -25,7 +25,8 @@ public class Tree<E> {
         tree.root.right = new Node<Integer>(3);
         tree.root.left.left = new Node<Integer>(4);
 
-        System.out.println(tree);
+        //prints the root of the tree
+        System.out.println(tree.root);
         
     }
 
