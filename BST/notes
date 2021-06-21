@@ -1,1 +1,2 @@
-
+Searching for all operations is O(h) however the BST is modified to AVL tree so that searching insertion and deletion time are 
+all reduced to log(base 2)(n) worst case time complexity.
