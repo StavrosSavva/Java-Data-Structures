@@ -1,1 +1,2 @@
-This is a simple binary tree. You can view the Binary search tree (BST) in the next section which is used to speed up search operations.
+This is a simple binary tree. All operations(insertion,deletion,search) are of worst case time complexity O(n)
+You can view the Binary search tree (BST) in the next section which is used to speed up search operations.
